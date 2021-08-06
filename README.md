@@ -1,5 +1,5 @@
 ## Overview
-**ChessVS** is a program made with [StockFish](https://github.com/official-stockfish/Stockfish)
+**ChessVS** is a program made with [StockFish](https://github.com/official-stockfish/Stockfish).
 At it's current version, it is entirely made up of the Python programming language.
 
 Current version:
@@ -7,7 +7,7 @@ Current version:
 
 
 ## Files
-This distribution of ChessVS consists of the following files:
+This distribution of **ChessVS** consists of the following files:
 
 * Readme.md, the file you are currently reading.
 
